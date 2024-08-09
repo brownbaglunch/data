@@ -17771,18 +17771,13 @@ var data = {
         {
           title: 'Docker sur le poste du développeur',
           abstract:
-            'Vous avez entendu parler de Docker, vous avez été formé dessus mais vous ne savez pas à quoi ça pourrait servir dans votre quotidien de développeur?\n\nDans cette présentation vous verrez\n\n- Des cas d’utilisation concrets (ex. test containers, frontend + keycloak + spring boot, test de jobs CI, ...)\n- Des exemples / démos de certains de ces usages\n\nLa présentation sera suivie d’une session de questions-réponses.',
+            'Vous avez entendu parler de Docker, vous avez été formé dessus mais vous ne savez pas à quoi ça pourrait servir dans votre quotidien de développeur? Dans cette présentation je vous présenterai des cas d’utilisation concrets, des exemples / démos de certains de ces usages.',
           tags: [
             'Docker',
-            'Docker-Compose',
-            'Spring Boot',
-            'Java',
-            'VueJs',
-            'Typescript',
-            'Keycloak',
-            'OpenId Connect',
-            'OAuth 2',
-            'Asciidoctor',
+            'Outillage',
+            'Docker',
+            'Onboarding',
+            'Developpement',
           ],
           lang: ['fr'],
         },
