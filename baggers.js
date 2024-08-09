@@ -17766,7 +17766,7 @@ var data = {
           url: 'https://baldir.fr/',
         },
       ],
-      location: 'Strasbourg',
+      location: 'Strasbourg, remote',
       sessions: [
         {
           title: 'Docker sur le poste du développeur',
