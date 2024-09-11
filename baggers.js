@@ -5448,20 +5448,6 @@ var data = {
           lang: ['fr'],
         },
         {
-          title: 'Quoi de neuf Chrome DevTools ?',
-          abstract:
-            "* Utiliser le debugger : ✓ \n* Utiliser le sourcemapping pour voir mon sass au lieu de mon css : ✓\n* Utiliser le debugger dans les functions inline : Quoi on peut débugger une fonction inline !! ? Analyser les screenshots de mon site pour comprendre comment mon site s'affiche : Quoi ? Je peux faire ça ?\n\nA chaque année son lot de nouveautés et de fonctionnalités du coup méconnues ! Venez dans ce talk pour découvrir et redécouvrir comment les devtools peuvent vous aider voir vous sauvez la vie !",
-          tags: ['Web', 'DevTools'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Les Sensors & le HTML5',
-          abstract:
-            "Html5 nous donne accès à un certain nombre de capteurs/périphériques qu’auparavant on pouvait seulement utiliser par le biais de plugins. Nous allons jouer avec nos téléphones / nos ordinateurs pour découvrir comment interpréter des éléments tels que l'orientation du téléphone, la captation de la voix, la création de sons, la caméra, ... Cet atelier montrera comment implémenter chacune de ces fonctionnalités. Au programme : giroscope / microphone / usermedia / vibration / ... Smartphone requis",
-          tags: ['Mobile', 'Android', 'NFC', 'HTML5', 'WebRTC', 'Sensors'],
-          lang: ['fr'],
-        },
-        {
           title: "J'ai organisé un atelier pour les enfants",
           abstract:
             "Les Devoxx4Kids, vous connaissez ? Mais si vous savez, ces ateliers pour faire découvrir la programmation aux plus petits ? Je vais vous faire un petit retour d'expérience sur les choix que nous avons fait à Nantes et pourquoi nous les avons fait. Comment avons nous choisit le programme ? Combien de temps doit durer les ateliers ? .... \n Enfin je ferais une démo de scratch pour que vous puissiez expérimenter cet outils avec vos enfants",
@@ -5490,12 +5476,18 @@ var data = {
           lang: ['fr'],
         },
         {
-          title:
-            'Atelier : Découvrir l’authentification avec double facteur sans mot de passe grâce à WebAuthN',
-          abstract:
-            "WebAuthN est présent depuis déjà quelques années pour offrir un mécanisme d’authentification sans mot de passe fiable et présent sur tous les navigateurs modernes. Pour autant, il n’est pas encore très répandu dans les applications que l’on utilise. \nA travers ce codelab, je vous propose de voir comment mettre en place la partie front-end de WebAuthN en couplant cela à un mécanisme de double authentification.\nJe n’aborderai pas volontairement la partie back et je m'appuierai sur des librairies existantes.\nCependant à l’issue du codelab, vous saurez comment débugger, mettre en place une authentification sans mot de passe sur votre prochaine application web !",
-          tags: ['Codelab', 'Web', 'WebAuthN'],
-          lang: ['fr'],
+          title: '🧑‍🎨 L’art de bien rater sa conférence 🥱',
+          abstract: 
+            'Vous vous êtes toujours demandé comment rater à coup sûr une présentation devant vos collègues ou votre comité de direction. Et bien, ne cherchez plus, venez dans ce talk pour découvrir comment être un·e orateur·rice exécrable.\nEntre mauvaises pratiques et erreurs de présentation, vous verrez comment transformer un mauvais jeux de slides en une présentation percutente et captivante. Le tout en s’amusant grâce à une légère dose d’autodérision 🫠…',
+          tags: ['Conseils', 'Tech Talks'],
+          lang: ['fr']
+        },
+        {
+          title: 'J’ai beaucoup de taf 😱 mais je gère 😎',
+          abstract: 
+            'On court toujours après le temps, dans notre vie perso, dans notre vie pro. Et si on essayait d’être plus productif non pas pour produire plus (enfin si un peu 😇) mais plutôt pour regagner du temps dans sa vie perso et arrêter de se sentir tous les jours surchargés.\nC’est ce que je vous propose à travers cette session qui revient sur ce que j’ai pu mettre en place dans mon organisation au quotidien et comment je m’y suis pris.',
+          tags: ['Conseils', 'Tech Talks'],
+          lang: ['fr']
         },
       ],
       cities: ['Nantes'],
