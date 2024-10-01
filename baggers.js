@@ -16296,7 +16296,7 @@ var data = {
       since: '2015-03-10',
       name: 'Xavier Pigeon',
       bio:
-        'Expert Méthode & Qualité (Freelance) | auteur de GearsOfTesting.org | développeur de TestAsYouThink.org',
+        'Expert Méthode & Qualité en Stratégie IT (Freelance) : Coach Qualité / Test / Craftsmanship, Test Leader, QA Manager',
       picture:
         'https://gravatar.com/userimage/29545108/d3a9e2ed3d93ef53aff440e053e0faed.jpeg',
       websites: [
@@ -16310,11 +16310,11 @@ var data = {
         },
         {
           name: 'Web',
-          url: 'https://gearsoftesting.org/',
+          url: 'https://gost.chrysocode.io/',
         },
         {
           name: 'Web',
-          url: 'https://testasyouthink.org/',
+          url: 'https://testasyouthink.chrysocode.io/',
         },
         {
           name: 'LinkedIn',
@@ -16332,19 +16332,14 @@ var data = {
       location: 'Paris, remote',
       sessions: [
         {
-          title: 'Une Lettre pour un Diamant',
+          title: '9 Grands Frameworks d'automatisation pour accélérer la transformation de vos tests',
           abstract:
-            '(live coding / présentation) Résolution de kata avec Test-Driven Development. En savoir plus sur https://xavierpigeon.com/conferences.html.',
+            '(présentation) Comprendre les cadres méthodologiques possibles pour automatiser vos tests, avec leurs singularités et leurs opportunités cachées. En savoir plus sur https://xavierpigeon.com/conferences.html.',
           tags: [
-            'TDD',
-            'Transformation Priority Premise',
-            'Clean Code',
-            'TDDflow',
-            'Java',
-            'JUnit',
-            'TestAsYouThink Core',
-            'Programmation orientée objet',
-            'Développements Agiles',
+            'Test',
+            'Automatisation',
+            'Méthode',
+            'Framework',
           ],
           lang: ['fr'],
         },
@@ -16366,10 +16361,27 @@ var data = {
           title:
             'Diviser pour régner sur les tests : une classification pour les gouverner tous',
           abstract:
-            "(présentation) Etat de l'art en stratégies de test agile à travers un nouveau référentiel typologique structuré et hiérarchisé. En savoir plus sur https://xavierpigeon.com/conferences.html.",
+            "(présentation) État de l'art en stratégies de test agile à travers une nouvelle typologie et taxonomie des tests logiciels construites selon une approche scientifique. En savoir plus sur https://xavierpigeon.com/conferences.html.",
           tags: ['Stratégie', 'Tests', 'Typologie', 'Taxonomie', 'Agilité'],
           lang: ['fr'],
         },
+        {
+          title: 'Une Lettre pour un Diamant',
+          abstract:
+            '(live coding / présentation) Résolution de kata avec Test-Driven Development. En savoir plus sur https://xavierpigeon.com/conferences.html.',
+          tags: [
+            'TDD',
+            'Transformation Priority Premise',
+            'Clean Code',
+            'TDDflow',
+            'Java',
+            'JUnit',
+            'TestAsYouThink Core',
+            'Programmation orientée objet',
+            'Développements Agiles',
+          ],
+          lang: ['fr'],
+        }
       ],
       cities: ['Paris'],
       contacts: {
