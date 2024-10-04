@@ -4767,47 +4767,6 @@ var data = {
       },
     },
     {
-      since: '2014-03-18',
-      name: 'Simon Baslé',
-      bio:
-        "Développeur Java curieux, particulièrement enthousiasmé par les aspects conception (OOP, design patterns, architecture logicielle), les clients riches et l'User eXperience, les outils et bonnes pratiques associées, ainsi que la programmation concurrente.",
-      picture:
-        'http://fr.gravatar.com/userimage/42947809/b10c51afd81006de14a5bffdb25973f2.jpg?size=200',
-      websites: [
-        {
-          name: 'InfoQ',
-          url: 'http://www.infoq.com/fr/author/Simon-Basl%C3%A9',
-        },
-        {
-          name: 'LinkedIn',
-          url: 'http://www.linkedin.com/in/simonbasle',
-        },
-      ],
-      location: 'Paris, remote',
-      sessions: [
-        {
-          title: 'Programmation Réactive avec Reactor (ou RxJava)',
-          abstract:
-            'Déjà eu à travailler avec des callbacks de callbacks de callbacks de...? Découvrez comment le paradigme de programmation réactive et la librairie Reactor (ou RxJava) peuvent vous aider à sortir de cet enfer, sous Java 8.',
-          tags: [
-            'Java',
-            'Reactive Programming',
-            'Reactive',
-            'Reactor',
-            'RxJava',
-            'Java 8',
-            'Asynchrone',
-          ],
-          lang: ['fr', 'en'],
-        },
-      ],
-      cities: ['Paris'],
-      contacts: {
-        twitter: 'simonbasle',
-        mail: 'simon.basle@gmail.com',
-      },
-    },
-    {
       since: '2014-03-28',
       name: 'Youri Bonnaffé',
       bio:
