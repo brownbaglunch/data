@@ -2115,10 +2115,8 @@ var data = {
     {
       since: '2013-06-03',
       name: 'Antonio Goncalves',
-      bio:
-        "Java, Microservices, Quarkus, MicroProfile, JHipster (et un peu d'Angular) - Freelance - Co-créateur de @vxdmicroservice @DevoxxFR @lescastcodeurs @ParisJUG",
-      picture:
-        'http://agoncal.files.wordpress.com/2013/05/antonio2013square2562.jpg',
+      bio: "Java, AI, Cloud, Microservices, Quarkus - Microsoft - Java Champion - Co-créateur de @vxdmicroservice @DevoxxFR @lescastcodeurs @ParisJUG",
+      picture: 'http://agoncal.files.wordpress.com/2013/05/antonio2013square2562.jpg',
       websites: [
         {
           name: 'Web',
@@ -2132,45 +2130,21 @@ var data = {
       location: 'Paris intramuros... mais je veux bien faire un effort',
       sessions: [
         {
+          title: 'LangChain4j: de Zéro a RAG Super Hero',
+          abstract: "Plongez dans l'univers de LangChain4j et découvrez comment il révolutionne l'intégration de l'IA dans les applications Java.",
+          tags: ['LangChain4j', 'AI', 'IA', 'Intelligence Artificielle', 'RAG'],
+          lang: ['fr'],
+        },
+        {
           title: 'Quarkus',
-          abstract:
-            'Microservices avec Quarkus: MicroProfile, Panache, GraalVM, ...',
-          tags: [
-            'Microservices',
-            'MicroProfile',
-            'Quarkus',
-            'GraalVM',
-            'Panache',
-            'Cloud',
-          ],
+          abstract: 'Microservices avec Quarkus: MicroProfile, Panache, GraalVM, ...',
+          tags: ['Microservices', 'MicroProfile', 'Quarkus', 'GraalVM', 'Panache', 'Cloud',],
           lang: ['fr'],
         },
         {
           title: 'Microservices?',
           abstract: 'Microservices: architecture, patterns, terminologie...',
-          tags: [
-            'Microservices',
-            'DDD',
-            'REST',
-            'Circuit Breaker',
-            'Registry',
-            'Pros and Cons',
-          ],
-          lang: ['fr'],
-        },
-        {
-          title:
-            'Migrer vos monolithes vers des microservices, une bonne idée?',
-          abstract:
-            'Vous avez des monolithes et vous voulez migrer tout ou partie de vos applications vers une architecture microservices, discutons-en.',
-          tags: ['MicroService', 'Architecture', 'Monolithe'],
-          lang: ['fr'],
-        },
-        {
-          title: 'Une architecture micro services en moins d’une heure',
-          abstract:
-            "Live coding d'une architecture micro services avec JHipster, Spring Boot et Angular.",
-          tags: ['JHipster', 'MicroService', 'SpringBoot', 'Angular'],
+          tags: ['Microservices', 'DDD', 'REST', 'Circuit Breaker', 'Registry', 'Pros and Cons',],
           lang: ['fr'],
         },
       ],
@@ -5436,14 +5410,14 @@ var data = {
         },
         {
           title: '🧑‍🎨 L’art de bien rater sa conférence 🥱',
-          abstract: 
+          abstract:
             'Vous vous êtes toujours demandé comment rater à coup sûr une présentation devant vos collègues ou votre comité de direction. Et bien, ne cherchez plus, venez dans ce talk pour découvrir comment être un·e orateur·rice exécrable.\nEntre mauvaises pratiques et erreurs de présentation, vous verrez comment transformer un mauvais jeux de slides en une présentation percutente et captivante. Le tout en s’amusant grâce à une légère dose d’autodérision 🫠…',
           tags: ['Conseils', 'Tech Talks'],
           lang: ['fr']
         },
         {
           title: 'J’ai beaucoup de taf 😱 mais je gère 😎',
-          abstract: 
+          abstract:
             'On court toujours après le temps, dans notre vie perso, dans notre vie pro. Et si on essayait d’être plus productif non pas pour produire plus (enfin si un peu 😇) mais plutôt pour regagner du temps dans sa vie perso et arrêter de se sentir tous les jours surchargés.\nC’est ce que je vous propose à travers cette session qui revient sur ce que j’ai pu mettre en place dans mon organisation au quotidien et comment je m’y suis pris.',
           tags: ['Conseils', 'Tech Talks'],
           lang: ['fr']
