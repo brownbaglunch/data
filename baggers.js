@@ -18355,6 +18355,41 @@ var data = {
         },
       ],
     },
+    {
+      since: '2024-12-29',
+      name: 'Baptiste Devessier',
+      bio: 'Développeur Web Full Stack et consultant XState freelance',
+      picture: 'https://avatars.githubusercontent.com/u/29370468?v=4',
+      cities: ['Paris'],
+      contacts: {
+        twitter: 'BDevessier',
+        mail: 'baptiste@devessier.fr',
+      },
+      location: 'Paris',
+      websites: [
+        {
+          name: 'Web',
+          url: 'https://baptiste.devessier.fr/',
+        },
+        {
+          name: 'GitHub',
+          url: 'https://github.com/Devessier',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/baptiste-devessier/',
+        },
+      ],
+      sessions: [
+        {
+          title: 'Rendre son frontend plus robuste avec XState',
+          abstract:
+            "XState est une librairie de state machines pour JavaScript et TypeScript. Dans cette présentation, nous verrons ce que l'utilisation de state machines peut apporter au développement du frontend de votre application. Comportement explicite, centralisation de la logique de vos composants, facilité de débusquer et de résoudre des bugs, autant d'atouts pour accroître la robustesse de vos applications.",
+          tags: ['XState', 'State machines', 'JavaScript', 'TypeScript', 'React', 'Vue'],
+          lang: ['fr', 'en'],
+        },
+      ],
+    },
   ],
   cities: {
     'Aix-en-Provence': {
